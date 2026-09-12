@@ -6,8 +6,9 @@
 
 - Họ và tên: Nguyễn Hoàng Cường
 - Mã học viên: 2A202602473
-- Vai trò / bối cảnh (VD: sinh viên năm X, intern PM, ...):
-- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem):
+- Vai trò / bối cảnh: Học viên Day 02, thực hiện problem scan từ các workflow nghiệp vụ văn phòng/tài chính/hỗ trợ vận hành đã quan sát.
+- Công việc hằng tuần (3-5 gạch đầu dòng để soi problem): tổng hợp báo cáo/số liệu; xử lý hoặc theo dõi tác vụ lặp lại; đọc và đối chiếu tài liệu; phối hợp với các bên liên quan; rà soát kết quả trước khi gửi.
+
 
 ---
 
